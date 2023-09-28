@@ -1,0 +1,8 @@
+comandos de git 
+git clone <url del repositorio> nombre_carpeta
+
+--para subir archivos 
+1 git add nombre del archivo
+2 git  comit -m " mensaje"
+3 git push origin main
+archivo
